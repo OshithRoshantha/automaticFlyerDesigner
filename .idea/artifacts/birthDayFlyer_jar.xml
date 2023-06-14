@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="birthDayFlyer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/birthDayFlyer_jar</output-path>
+    <root id="archive" name="birthDayFlyer.jar">
+      <element id="module-output" name="birthDayFlyer" />
+    </root>
+  </artifact>
+</component>
